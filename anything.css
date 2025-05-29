@@ -20,3 +20,13 @@
     display:block;
     justify-content: left;
 }
+.audio1 {
+    margin: auto;
+    display: block;
+    justify-content: center;
+}
+.video1 {
+    margin: auto;
+    display: block;
+    justify-content: center;
+}
